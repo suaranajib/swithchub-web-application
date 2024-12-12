@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform/
+ec2-instance
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
